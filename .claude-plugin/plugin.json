@@ -8,6 +8,7 @@
     "url": "https://quallie.ai"
   },
   "homepage": "https://quallie.ai",
+  "privacyPolicyUrl": "https://quallie.ai/resource-centre/data-privacy",
   "license": "MIT",
   "keywords": ["qualitative research", "user research", "reports", "interviews", "insights"]
 }
