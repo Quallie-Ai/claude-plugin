@@ -1,0 +1,13 @@
+{
+  "name": "quallie",
+  "displayName": "Quallie.Ai",
+  "version": "0.1.0",
+  "description": "Build qualitative research reports with Claude, together. Claude interviews you about the project, explores your Quallie.Ai interviews with you, agrees an outline, then builds the report page by page.",
+  "author": {
+    "name": "Quallie.Ai Ltd",
+    "url": "https://quallie.ai"
+  },
+  "homepage": "https://quallie.ai",
+  "license": "MIT",
+  "keywords": ["qualitative research", "user research", "reports", "interviews", "insights"]
+}

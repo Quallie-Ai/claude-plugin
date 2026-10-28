@@ -1,0 +1,13 @@
+{
+  "name": "quallie",
+  "owner": {
+    "name": "Quallie.Ai Ltd"
+  },
+  "plugins": [
+    {
+      "name": "quallie",
+      "source": "./",
+      "description": "Build qualitative research reports with Claude, together. Claude interviews you about the project, explores your Quallie.Ai interviews with you, agrees an outline, then builds the report page by page."
+    }
+  ]
+}

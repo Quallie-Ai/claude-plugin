@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quallie": {
+      "type": "http",
+      "url": "https://app.quallie.ai/api/mcp"
+    }
+  }
+}
